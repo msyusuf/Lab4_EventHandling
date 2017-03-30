@@ -11,7 +11,9 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Button;
 import android.widget.TextView;
+
 /*
+Example taken from the following site
 http://startandroid.ru/en/lessons/210-lesson-9-event-listeners-with-button-example.html
  */
 
